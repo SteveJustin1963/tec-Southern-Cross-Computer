@@ -1,3 +1,3 @@
 # tec-Southern-Cross-Computer
 
-a knock off of the TEC-1
+copy of the TEC-1
