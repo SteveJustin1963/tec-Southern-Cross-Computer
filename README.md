@@ -1,23 +1,8 @@
-# tec-Southern-Cross-Computer
+# Southern Cross Computer
 
-https://github.com/crsjones/Southern-Cross-Computer-z80
+I developed the Z80 Southern Cross Computer for Hong Kong based Kitsrus in 1992/93.
+The kit was based on the TEC-1 Computer that was designed by John Hardy and Ken Stone
+in 1983 and appeared in Australia's Talking Electronics Magazine Issue 10. 
+The music and music routines were copied from the TEC-1's original monitor MON-1.
 
-copy and knockoff of the TEC-1, files at http://www.kitsrus.com/pdf/
-their web is http://www.kitsrus.com/
-
-
-
-Southern Cross I, Z80 Single Board Computer
-
-Southern Cross I schematics.
-
-SC3 Relay Addon Card to Southern Cross I & II.
-
-SC4 8x8 Addon Card to Southern Cross I & II.
-
-10 year RAM backup with the DALLAS DS1213C Smart Socket
-
-Real time, day and date capability with the DALLAS DS1216C - Smart Watch IC. Includes RAM backup
-
-
-
+The computer also appeared in Silicon Chip Magazine in the August 1993 edition.
