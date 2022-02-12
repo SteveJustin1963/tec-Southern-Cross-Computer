@@ -1,5 +1,7 @@
 # Southern Cross Computer
 
+backup copy of CJs work.
+
 https://github.com/crsjones/Southern-Cross-Computer-z80
 
 Craig Jones......"I developed the Z80 Southern Cross Computer for Hong Kong based Kitsrus in 1992/93.
